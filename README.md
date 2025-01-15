@@ -7,14 +7,23 @@ Este projeto é um semáforo com botão para pedestre.
 📋 Requisitos
 
 Hardware
+
 1x Arduino (UNO, Nano, ou compatível).
-2x LED vermelho.
+
+2x LED vermelho
+
 2x LED verde.
+
 1x LED amarelo.
+
 5x Resistores (220 ohms para LEDs).
+
 1x Resistor (10k ohms para botão).
+
 1x botão.
+
 Fonte de alimentação adequada.
+
 Jumpers e protoboard.
 
 Programas
